@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Моя страница</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkI6sWY2Co9sqr63OLJYcWhi0ufNfNKzB4g&s" width="70px"/>
+            <nav>
+                <a href="">Главная</a>
+                <a href="">Технические характиристики</a>
+                <a href="">Интересные факты</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Технические характиристики</h1>
+            <ul>
+                <li> 215/60R16. 215/60R16.</li>
+                <li>2.4 л 167 л. с. </li>
+                <li> Расход 9,9 л Бензин АИ-95</li>
+                <li> АКПП Передний (FF)</li>
+                <li> 5 мест 4 двери</li>
+                <li> 160 мм Объем багажника 535 л</li>
+            </ul>
+            <div>
+               <img src="https://autoreview.ru/images/Article/1620/Article_162076_860_575.jpg"/>
+               <img src="https://i.siteapi.org/E_BkB_3SLHNkcAEWAJX183K_0Mc=/0x31:1121x851/a830ffa3899c1c4.s.siteapi.org/img/pvm5v17wvuowgcos00w8g8kcs40gkg"/>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0tB4XfNY3zpCsgyUVguVM6gsRUBPEGtT8g&s"/>
+               <img src="https://a.d-cd.net/564f35u-1920.jpg"/>
+            </div>
+        </main>
+        <footer>
+            <p>ДАНЯ ИВАНОВ</p>
+        </footer>
+    </body>
+</html>
